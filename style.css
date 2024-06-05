@@ -1,0 +1,23 @@
+.bg{
+    background-image: url("https://images01.nicepage.com/c461c07a441a5d220e8feb1a/ef047784bc6a5cf2b81a76a6/robotgradientintro2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 630px;
+    position: relative;
+}
+.fs-big{
+    font-size: 80px;
+    z-index: 1;
+}
+.whi{
+    width: fit-content;
+}
+.img{
+
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 130px;
+    left: 690px;
+}
